@@ -1,4 +1,7 @@
+# SimpleCore
 Welcome to the DIY 3D Printer called SimpleCore!
+
+![](Images/Preview.jpg)
 
 PLEASE NOTE THIS PRINTER IS A WORK IN PROGRESS!
 
